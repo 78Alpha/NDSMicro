@@ -1,6 +1,3 @@
-# NDSMicro
-Batch NDS injection for Wii U
-
 After looking over the current tools in the Wii U, I noticed none of them had a simple "batch" process. The injectiine app stated it had a "batch interface" but, no, only 1 game at a time... So, I took that tool, and made it better, at least the concept. 
 
 What is this?
@@ -34,7 +31,7 @@ Get yourself an "​​​​encryptKeyWith" file (no extension) containing the 
 Download Metroid Prime hunters (Because I made the script around that as it was the latest I had)
 Delete the rom.zip in Metroid Prime Humters
 Move the app.xml and meta.xml from that folder to the Input folder
-rename the MPH game folder to "Base" (such that Base contains code, meta, content, etc...) and move that to the Input Folder
+rename the MPH game folder to "Modded_Base" (such that Base contains code, meta, content, etc...) and move that to the Input Folder
 get some TGA files in that Input folder
 Place NDS files next to the script (all of them, otherwise they will have the same xmls and might brick your sonsole... AKA, all or nothing)
 Lastly... run the script (depending on the number of games, it might take 11 or so hours, assuming you are doing all 6000+)
