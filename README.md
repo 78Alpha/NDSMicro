@@ -35,7 +35,7 @@ rename the MPH game folder to "Modded_Base" (such that Base contains code, meta,
 get some TGA files in that Input folder
 Place NDS files next to the script (all of them, otherwise they will have the same xmls and might brick your sonsole... AKA, all or nothing)
 Lastly... run the script (depending on the number of games, it might take 11 or so hours, assuming you are doing all 6000+)
-If you did the whole NDS collection right, it should shrink from 349 GB to 
+If you did the whole NDS collection right, it should shrink from 349 GB to 309 GB
 
 Also, might cut some steps out by uploading the folder structure myself, and empty files of where stuff should go, but I am NOT uploading copyrighted code.
 
